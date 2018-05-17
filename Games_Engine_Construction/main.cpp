@@ -10,7 +10,7 @@
 			HAPI - the directory with all the HAPI library files
 */
 
-// Include the HAPI header to get access to all of HAPIs interfaces
+//  Include the HAPI header to get access to all of HAPIs interfaces
 
 #include <HAPI_lib.h>
 #include "World.h"
