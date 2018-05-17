@@ -9,7 +9,7 @@ Networking_Elixir -> TCP server (written with Elixir v1.4) to handle messages an
 
 Physics_Rigid_Body_Simulator -> Rigid body simulator with collision detection and response (C# code in Unity Game Engine).
 
-RTG_Deffered_Sponza -> Recreation of the Sponza palace utilising OpenGL 4.0 and the tutor's libraries.
+RTG_Deffered_Sponza -> Recreation of the Sponza palace utilising OpenGL 4.0, C++ and the tutor's framework.
 
-RTG_Terrain_Generation -> Terrain generation using various techniques (Bezier patches, noise, textures).  
+RTG_Terrain_Generation -> Terrain generation using various techniques (Bezier patches, noise, textures) by using C++ and OpenGL 4.0.  
 
