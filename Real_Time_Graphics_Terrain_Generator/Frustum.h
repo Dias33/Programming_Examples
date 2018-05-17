@@ -13,7 +13,7 @@ enum EPlane
 };
 
 	/*
-	* Class to create a Frustum in order to determine the visibility of a patch.
+	* Class to create a Frustum in order to determine the visibility of a patch. 
 	*/
 
 class Frustum
