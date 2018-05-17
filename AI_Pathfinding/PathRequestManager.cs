@@ -6,7 +6,7 @@ using UnityEngine;
 /*
  * In order to allow the pathfinding algorithm to calculate multiple paths at the same time,
  * a manager of path requests has been created.
- * This is a queue that store each request and then tries to processes them one by one as fast as possible.
+ * This is a queue that stores each request and then tries to processes them one by one as fast as possible.
  */ 
 
 public class PathRequestManager : MonoBehaviour {
