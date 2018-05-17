@@ -71,7 +71,7 @@ public class OBB_To_OBB_Collision : MonoBehaviour {
         // Bring translation into a’s coordinate frame
 
         t = new Vector3(Vector3.Dot(t, A.positionArray[0]), Vector3.Dot(t, A.positionArray[1]), Vector3.Dot(t, A.positionArray[2]));
-        // Compute common subexpressions. Add in an epsilon term to
+        // Compute common subexpressions. Add in an epsilon term to 
         // counteract arithmetic errors when two edges are parallel and
         // their cross product is (near) null (see text for details)
 
