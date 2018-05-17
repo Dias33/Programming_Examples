@@ -74,7 +74,7 @@ def client_loop(client_socket) do
       IO.puts "Error: "
       IO.inspect why
       :gen_tcp.close(client_socket)
-  end
+   end
 end
 
 
