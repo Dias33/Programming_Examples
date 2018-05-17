@@ -435,7 +435,7 @@ MyView::MeshGL MyView::Create_Mesh(sponza::Mesh source_mesh)
 	const auto& vertex_normal = source_mesh.getNormalArray();
 	const auto& texture_coordinates_ = source_mesh.getTextureCoordinateArray();
 
-	//  Create OpenGL buffers to hold the geometry data.
+	//  Create OpenGL buffers to hold the geometry data. 
 
 	Vertices.resize(vertex_positions.size());
 
